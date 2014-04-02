@@ -1,6 +1,10 @@
 ActsAsRateable
 ==============
 
+Install
+-------
+To get this running w/ bundler, use `gem 'acts_as_rateable', '1.0', git: 'https://github.com/codeodor/juixe-acts_as_rateable-rails4.git'`. The information below on installation is way out of date... and maybe other stuff as well.
+
 == Resources
 
 Install
